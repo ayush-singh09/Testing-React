@@ -1,8 +1,4 @@
-# React + Vite
+# Testing React Router DOM and Context API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- I deployed one of my project in react in which I used Routes and Context API and that project is not working properly so I am making this simple site to test Routes and Context API whether it works properly on Vercel or not.
+- Till now I found out thst it is working properly and there are any other issues in my project that I'am finding.
